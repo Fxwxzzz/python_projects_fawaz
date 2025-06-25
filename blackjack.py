@@ -1,7 +1,7 @@
 import random
 import bjart
 cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
-print(art.logo)
+print(bjart.logo)
 your_hand=[]
 def black():
     for i in range(2):
