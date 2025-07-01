@@ -1,4 +1,4 @@
-import art
+import hgart
 import random
 import game_data
 a=random.choice(game_data.data)
